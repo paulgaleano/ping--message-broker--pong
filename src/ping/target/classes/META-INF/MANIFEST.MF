@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ping
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: paulgaleano
+Implementation-Vendor-Id: com.message.driven.ping
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/ping/
+Created-By: Maven Integration for Eclipse
+

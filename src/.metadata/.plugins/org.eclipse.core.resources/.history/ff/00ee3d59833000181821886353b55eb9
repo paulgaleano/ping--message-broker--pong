@@ -1,0 +1,7 @@
+package com.message.driven.ping.application.adapter;
+
+import com.message.driven.ping.domain.data.PingMessage;
+
+public interface MQAdapter {
+	public void sendMessage(PingMessage pingMessage);
+}
