@@ -1,9 +1,0 @@
-package com.message.driven.ping.application.adapter;
-
-import com.message.driven.ping.application.dto.PingDto;
-
-import io.reactivex.Flowable;
-
-public interface MQAdapter {
-	public Flowable sendMessage(PingDto pingDto);
-}

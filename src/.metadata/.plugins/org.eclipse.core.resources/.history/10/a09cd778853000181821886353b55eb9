@@ -1,8 +1,0 @@
-package com.message.driven.ping.domain.service;
-
-import com.message.driven.ping.domain.data.PingMessage;
-import com.message.driven.ping.domain.data.PongMessage;
-
-public interface CommandService {
-	public void processPingMessage(PingMessage pingMessage);
-}
